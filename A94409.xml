@@ -1,0 +1,146 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To his excellency the Lord Fairfax generall of the forces raised for the defence of the kingdom. The humble petition or remonstrance of the well affected inhabitants of the county of Rutland.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94409</idno>
+            <idno type="STC">Wing T1351</idno>
+            <idno type="STC">Thomason 669.f.13[47]</idno>
+            <idno type="STC">ESTC R211073</idno>
+            <idno type="EEBO-CITATION">99869810</idno>
+            <idno type="PROQUEST">99869810</idno>
+            <idno type="VID">162943</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94409)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162943)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 246:669f13[47])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To his excellency the Lord Fairfax generall of the forces raised for the defence of the kingdom. The humble petition or remonstrance of the well affected inhabitants of the county of Rutland.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by James and Joseph Moxon, for William Larnar, at the Black-more within Bishopsgate,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>At foot of text: This petition was presented to the general on Fryday the 24 of November 1648. by Lieut. Freeman, accompanied with three Gentlemen of the Same County. To which the General returned this answer, Gentlemen I have sent to the House, I hope they will do that which will be good for the Kingdom; if not, I will venture my life with you for Justice: and return you Thanks.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Rainborow, Thomas, d. 1648 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Rutland (England) --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="petition">
+            <pb facs="tcp:162943:1" rendition="simple:additions"/>
+            <head>TO HIS EXCELLENCY THE LORD FAIRFAX GENERAL OF THE FORCES RAISED FOR THE DEFENCE OF THE KINGDOM. The Humble Petition or Remonſtrance of the Well affected Inhabitants of the County of Rutland.</head>
+            <opener>
+               <salute>May it pleaſe your Excellency,</salute>
+            </opener>
+            <p>THe Conſideration of the Honour which God ha h put upon You ſince theſe troublous Times began, hath caſt our eyes on You, as (under God) the means of our further good; And therefore we thought fit to make our Addreſſes to your Excel<g ref="char:EOLhyphen"/>lency for counſel and relief in our preſent condition, which is very grievous, and is like to be worſe, he preſent evils being but preſagements of future woes. Indeed our miſeries are at that height already, that if ſome ſpeedy courſe be not taken; we are like inevitably to be ruinated. But God having ſo appeared for his faithful ones already, giveth us much ground of confi<g ref="char:EOLhyphen"/>dence that he will not forſake us nor his owne cauſe; which is, the deliverance of his people, the advancement of Juſtice, and the puniſhment of malicious offenders. And we are perſwaded of You alſo, tha<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap> you will not be wanting to do us good, or omit to ſeek the welfare of this poor Nation, nor let go the bleſſed opportunity which the God of heaven hath put into your hands to do us good. And in order to your furtherance herein, we deſire that your Honour would be pleaſed to open your gracious ear to our (as we judge) weighty motions or Propoſals, which are the Declaration of our griefs, lawful deſires, and firm reſolutions; that which in the firſt place we do offer as a grievance of our diſtreſſed ſouls, is not ſo much what we have loſt in our Eſtates already, as our undone eſtate if our greateſt enemies ſhall be made our Judges and chiefeſt Governour (or King) in order to which, and to the enſlaving of us for ever, we conceive this Treaty with our conquered enemy was intended by ſome, which Treaty giveth a check to all the Parliaments former Declarations, and heroick Votes concerning the King, which Votes and Declarations we thought had not bin eaſily altered; the croſſing of which adds ſo much to our ſorrows, as we are not able to expreſs, and alſo by this means a hor<g ref="char:EOLhyphen"/>rid contradiction is made to the Parliaments Declaration and reſolution concerning no more Addeſſes: Indeed it is a giving them the ly, as though all that they had ſaid of him, as touching the betraying of Rochell, the death of his Father, the Iriſh rebellion, bringing in the German horſe, the violence done to the Parliament at the beginning of their ſitting, with divers other evils of a high nature which they laid to his charge, had no truth in them, but a meer Floriſh to defame him and deceive the people.</p>
+            <p>If all theſe things were juſtly charged upon him, (as in honour to the Parliament we beleeve they were,) oh how durſt our Parliament think of Treating with ſuch a man! And that which alſo melteth our very ſouls, is the much bloud already ſpilt, and yet we like to return into our former ſlavery. This is intollerable, and that which leaveth us without all hope is this, we ſee the Parliament intend not any more to hear our cries, but do lay aſide all our Petitions; and though they burned them not by the hand of the common Hangman, yet they make us hang in torment between hope and fear, and ſo we are like to do if this Honourable Army help us not. Do you not lay it to heart how many Noble and yet Humble Petitions they have laid aſide, as that from the faith full Citizens of London, that from the Town and County of York, that from Kingſton upon Hull, and that well-grounded and reaſonable Petition from the Town and County of Leiceſter, and many others to the ſame effect. Thus many mens deſires, all mens good, is laid aſide to feed ſome wicked mens humors: oh for Gods ſake lay theſe things to heart. And further that which vexeth our hearts and thouſand righteous ſouls of the Commons of England is, that ſtill our Worthies are privately murthered, and all our ruines plotted, as appeareth by a Libel ſcattered abroad our County, and as you may ſee threatneth the deſtruction of thoſe honeſt Gentlemen that were forced to leave the Parliament Houſe and fly to the Army; and alſo them of the Army which enga<g ref="char:EOLhyphen"/>ged at Newmarket.</p>
+            <p>And further when we ſee the freedoms of the People, and the ſecurity of all the Parliaments Souldiery depend upon the conſent of a King, whom they have conquered, and this ſecurity to be for years, and if the Militia be intayled to the Crown, then if the King dy before theſe years be expired it muſt be returned to the Crown again, for the Father cannot give away the ſons inheritance: whereas if the Houſe of Commons had declared themſelves the ſupream Authority of the Nation (as they ought to have done) our ſecuritie had been firm.</p>
+            <p>And further it may be juſtly conceived, that what things are done by conſtraint are void in Law: and concluded by the Kings party that whatſoever he ſignes are done by conſtraint: What ſhall hinder him (being once impowered) to urge the Letter of the Law againſt the Parliament and all that adhered unto them, to their utter ruine. And if the King could raiſe ſo great an Army when he was in Carisbrook Caſtle, what will he be able to do when he comes to London among his now Deſparadoes, may he not eaſily gain the Militia in one moneth, and overturn all that hath been accompliſhed with ſo much difficulty? And now if you and the Well-affected in the Army do forſake us, in reſpect of the help of man, we are utterly undone: and pardon us if we ſay, We fear God will forſake you, and let you fall by thoſe hands in which you leave us.</p>
+            <p>Theſe are ſome of thoſe ſorrows in which we muſt ſink, or reſolve to take ſome more noble courſe, even to defend our ſelves by our ſword, judging it far better to dy honourably in the field in one hour, than to live ſlaves in our houſes for ever. Now the Lord teach you and us what to do; if we ſit ſtill, we are like to be maſſacred in our beds, or as our beloved <hi>Rainſborough</hi> was, whoſe death addeth to the life of our ſorrows: Oh truſty <hi>Rainſborough!</hi> thou art but what we are like to be; but what ſhall we do? We beſeech your Excellency tell us, or hear us with patience, and we will relate what we intend.</p>
+            <p>Firſt, We will pray to your God and to our God, and when we have powred out our tears to him, and our complaints to one another, as we have in ſome meaſure done already; then we will reſolve to ſtand up with you and the reſt of the faithful in the Nation, and declare further what we reſolve to have: Only (Right Honourable) we thought good to make our humble Addreſſes unto you, and beg your aid, your countenance, and your prayers, your grave Counſel, and Chriſtian advice in this matter. We thought it good as <hi>Mordecai</hi> did <hi>Heſter,</hi> to put you upon endeavouring our deliverance, and let us in all humility and faithfulneſs tell you, that if you fail, God will find ſome way to ſet us free; but how you will anſwer your neglect, we cannot tell. In times paſt we have found you ready to venture life and limb for our good, which gives us much aſſurance you will ſtand for us and with us ſtill, for our Juſt Rights.</p>
+            <p>We are no complementers nor flatterers, but well-willers to the good of our Countrey, for which we aſſure you we will venture life and limb with you, for the ſuppreſſing of Tyrants, taking away oppreſſive Laws, and all grievous burthens under which the Common-wealth groaneth. Thus having imparted our Deſires and preſent Condition to your Excellency, we commit you to the Teaching, Guidance, and Protection of God, and reſt,</p>
+            <closer>
+               <signed>Yours, The Inhabitants of the County of Rutland.</signed>
+            </closer>
+         </div>
+         <div type="disposition">
+            <p>This Petition was preſented to the General on Fryday the 24 of November 1648. <hi>by Lieut.</hi> Freeman,
+<hi>accompanied with three Gentlemen of the ſame County.</hi>
+            </p>
+            <p>
+               <hi>To which the General returned this anſwer,</hi> Gentlemen I have ſent to the Houſe, I hope they will do that which will be good for the Kingdom; if not, I will venture my life with you for Juſtice: and return you Thanks.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>James</hi> and <hi>Joſeph Moxon,</hi> for <hi>William Larnar,</hi> at the Black-more within Biſhopſgate. 1648.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
